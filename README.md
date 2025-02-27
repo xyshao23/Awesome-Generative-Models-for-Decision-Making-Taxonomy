@@ -6,7 +6,5 @@
 
 <p align=center><b>[ Last updated at 2025/02/26 ]</b></p>
 
-# Overview
-<p align="center">
-    <iframe src="./images/overview.pdf" width="90%" height="90%"></iframe>
-</p>
+# Comparison
+<div aligncenter><img width="900" alt="image" src="./images/barchart.png">
