@@ -8,5 +8,5 @@
 
 # Overview
 <p align="center">
-    <embed src="./images/overview.pdf" width="90%" height="90%">
+    <iframe src="./images/overview.pdf" width="90%" height="90%"></iframe>
 </p>
