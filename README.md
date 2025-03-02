@@ -1,4 +1,4 @@
-# <p align=center>Awesome Generative Models for Decision Making: A Survey [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/xyshao23/Awesome-Generative-Models-for-Decision-Making-Taxonomy) </p>
+# <p align=center>Awesome Generative Models for Decision Making: <br>A Survey [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/xyshao23/Awesome-Generative-Models-for-Decision-Making-Taxonomy) </p>
 
 <p align=center>🔥A curated list of awesome <b>Generative Models</b> for Decision Making🔥</p>
 
