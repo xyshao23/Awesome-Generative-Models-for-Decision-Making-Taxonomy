@@ -29,7 +29,7 @@
 
 <br>
 <h1 id="overview">Overview</h1>
-<img width="1200" alt="image" src="./images/overview.png" style="display: block; margin: 0 auto;">
+<img width="900" alt="image" src="./images/overview.png" style="display: block; margin: 0 auto;">
 <br>
 <p style="line-height: 1.6; font-size: 20px;">
     The organization of this survey is as follows:
@@ -46,11 +46,11 @@
 
 <br>
 <h1 id="comparison">Comparison</h1>
-<img width="1200" alt="image" src="./images/comparison.png" style="display: block; margin: 0 auto;">
+<img width="900" alt="image" src="./images/comparison.png" style="display: block; margin: 0 auto;">
 <p>
 <ul style="line-height: 1.6; font-size: 20px;">
 <br>
-    Comparison of seven generative models in decision-making: training stability, generation diversity, and computational efficiency. Larger bubbles represent higher computational efficiency, with different models indicated by distinct colors. Best viewed in color.
+  Comparison of seven generative models in decision-making: training stability, generation diversity, and computational efficiency. Larger bubbles represent higher computational efficiency, with different models indicated by distinct colors. Best viewed in color.
 </p>
 <br>
 
@@ -276,10 +276,10 @@
 
 <br>
 <h3 id="5">Applications</h1>
-<img width="1200" alt="image" src="./images/barchart.png" style="display: block; margin: 0 auto;">
+<img width="900" alt="image" src="./images/barchart.png" style="display: block; margin: 0 auto;">
 <p>
 <ul style="line-height: 1.6; font-size: 20px;">
-    There are lots of applications of generative models in decision making scenarios. We consider five typical applications including: robot control, autonomous driving, games, structural generation, and optimization.
+  There are lots of applications of generative models in decision making scenarios. We consider five typical applications including: robot control, autonomous driving, games, structural generation, and optimization.
 </p>
 <br>
 
