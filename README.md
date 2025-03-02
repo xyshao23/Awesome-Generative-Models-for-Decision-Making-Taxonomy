@@ -27,28 +27,38 @@
 - [Autonomous Driving](#5.4)
 - [Optimization](#5.5)
 
-
+<br>
 <h1 id="overview">Overview</h1>
 <img width="1200" alt="image" src="./images/overview.png" style="display: block; margin: 0 auto;">
-<p>
-
-    The organization of this survey is as follows: Section \ref{sec:sec2} serves as a preliminary by introducing sequential decision-making formulation and provides the basics of all the examined methods. Specifically, we offer a detailed introduction to seven types of generative models and compare their performance with traditional approaches. Section \ref{sec:sec3} presents the proposed taxonomy for categorizing generative decision-making methods. In Section \ref{sec:sec4}, we review and analyze existing literature according to the introduced taxonomy. Section \ref{sec:sec5} showcases practical applications of generative models in decision-making. Finally, Section \ref{sec:sec6} discusses the future directions of generative models in decision-making, and we conclude the paper in Section \ref{sec:sec7} with an overall summary.
+<br>
+<p style="line-height: 1.6; font-size: 20px;">
+    The organization of this survey is as follows:
 </p>
+<ul style="line-height: 1.6; font-size: 20px;">
+    <li><strong>Section 2</strong> introduces <em>sequential decision-making formulation</em> and provides the basics of all examined methods.</li>
+    <li>We offer a <strong>detailed introduction</strong> to seven types of generative models and compare their performance with traditional approaches.</li>
+    <li><strong>Section 3</strong> presents the proposed taxonomy for categorizing generative decision-making methods.</li>
+    <li>In <strong>Section 4</strong>, we review and analyze existing literature according to the introduced taxonomy.</li>
+    <li><strong>Section 5</strong> showcases <em>practical applications</em> of generative models in decision-making.</li>
+    <li>Finally, <strong>Section 6</strong> discusses <em>future directions</em> of generative models in decision-making.</li>
+    <li>We conclude the paper in <strong>Section 7</strong> with an overall summary.</li>
+</ul>
 
+<br>
 <h1 id="comparison">Comparison</h1>
 <img width="1200" alt="image" src="./images/comparison.png" style="display: block; margin: 0 auto;">
 <p>
-
+<ul style="line-height: 1.6; font-size: 20px;">
+<br>
     Comparison of seven generative models in decision-making: training stability, generation diversity, and computational efficiency. Larger bubbles represent higher computational efficiency, with different models indicated by distinct colors. Best viewed in color.
 </p>
-
-
+<br>
 
 # Table <p id="table"></p>
 <div aligncenter><img width="900" alt="image" src="./images/table.png">
 
-### Taxonomy
-<p id="3"></p>
+<br>
+<h3 id="3">Taxonomy</h1>
 
 - 🔥 Family<p id="3.1"></p>
     - Energy Based Models (EBMs)
@@ -86,9 +96,8 @@
     - Modeler
     - Optimizer
 
-
-
-### Survey: Methodology<p id="4"></p>
+<br>
+<h3 id="4">Survey: Methodology</h1>
 
 ### 🔥🔥🔥 Generative Models as Controller
 <p id="4.1"></p>
@@ -265,8 +274,15 @@
 
 [ALPINE: Unveiling the Planning Capability of Autoregressive Learning in Language Models](https://arxiv.org/abs/2405.09220)
 
-## Applications<p id="5"></p>
-<div aligncenter><img width="900" alt="image" src="./images/barchart.png">
+<br>
+<h3 id="5">Applications</h1>
+<img width="1200" alt="image" src="./images/barchart.png" style="display: block; margin: 0 auto;">
+<p>
+<ul style="line-height: 1.6; font-size: 20px;">
+    There are lots of applications of generative models in decision making scenarios. We consider five typical applications including: robot control, autonomous driving, games, structural generation, and optimization.
+</p>
+<br>
+
 
 ### 🤖🤖🤖 Robot Control
 <p id="5.1"></p>
