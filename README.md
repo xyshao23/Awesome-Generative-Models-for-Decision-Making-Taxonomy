@@ -9,7 +9,7 @@
 # Table of Contents
 ### [Overview](#overview)
 ### [Comparison](#comparison)
-### [Table](#)
+### [Table](#table)
 ### [Taxonomy](#3)
 - [Family](#3.1)
 - [Function](#3.2)
@@ -49,16 +49,16 @@
 <img width="900" alt="image" src="./images/comparison.png" style="display: block; margin: 0 auto;">
 <p>
 <ul style="line-height: 1.6; font-size: 20px;">
-<br>
-  Comparison of seven generative models in decision-making: training stability, generation diversity, and computational efficiency. Larger bubbles represent higher computational efficiency, with different models indicated by distinct colors. Best viewed in color.
+  <li>Comparison of seven generative models in decision-making: training stability, generation diversity, and computational efficiency.</li>
+  <li>Larger bubbles represent higher computational efficiency, with different models indicated by distinct colors. Best viewed in color.</li>
 </p>
 <br>
 
-# Table <p id="table"></p>
-<div aligncenter><img width="900" alt="image" src="./images/table.png">
+<h1 id="table">Table</h1>
+<img width="900" alt="image" src="./images/table.png" style="display: block; margin: 0 auto;">
 
 <br>
-<h3 id="3">Taxonomy</h1>
+<h1 id="3">Taxonomy</h1>
 
 - 🔥 Family<p id="3.1"></p>
     - Energy Based Models (EBMs)
