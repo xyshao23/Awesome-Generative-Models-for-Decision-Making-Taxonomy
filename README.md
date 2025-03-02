@@ -7,20 +7,20 @@
 <p align=center><b>[ Last updated at 2025/03/02 ]</b></p>
 
 # Table of Contents
-### [Overview](#overview)
-### [Comparison](#comparison)
-### [Table](#table)
-### [Taxonomy](#3)
+## [Overview](#overview)
+## [Comparison](#comparison)
+## [Table](#table)
+## [Taxonomy](#3)
 - [Family](#3.1)
 - [Function](#3.2)
 - [Structure](#3.3)
 - [Expertise](#3.4)
 - [Applications](#5)
-### [Survey: Methodology](#4)
+## [Survey: Methodology](#4)
 - [Generative Models as Controller](#4.1)
 - [Generative Models as Modeler](#4.2)
 - [Generative Models as Optimizer](#4.3)
-### [Applications](#5)
+## [Applications](#5)
 - [Robot Control](#5.1)
 - [Structure Generation](#5.2)
 - [Games](#5.3)
@@ -28,7 +28,7 @@
 - [Optimization](#5.5)
 
 <br>
-<h1 id="overview">Overview</h1>
+<h2 id="overview">Overview</h2>
 <img width="900" alt="image" src="./images/overview.png" style="display: block; margin: 0 auto;">
 <br>
 <p style="line-height: 1.6; font-size: 20px;">
@@ -45,7 +45,7 @@
 </ul>
 
 <br>
-<h1 id="comparison">Comparison</h1>
+<h2 id="comparison">Comparison</h2>
 <img width="900" alt="image" src="./images/comparison.png" style="display: block; margin: 0 auto;">
 <p>
 <ul style="line-height: 1.6; font-size: 20px;">
@@ -54,11 +54,11 @@
 </p>
 <br>
 
-<h1 id="table">Table</h1>
+<h2 id="table">Table</h2>
 <img width="900" alt="image" src="./images/table.png" style="display: block; margin: 0 auto;">
 
 <br>
-<h1 id="3">Taxonomy</h1>
+<h2 id="3">Taxonomy</h2>
 
 - 🔥 Family<p id="3.1"></p>
     - Energy Based Models (EBMs)
@@ -97,7 +97,7 @@
     - Optimizer
 
 <br>
-<h3 id="4">Survey: Methodology</h1>
+<h2 id="4">Survey: Methodology</h2>
 
 ### 🔥🔥🔥 Generative Models as Controller
 <p id="4.1"></p>
@@ -274,17 +274,14 @@
 
 [ALPINE: Unveiling the Planning Capability of Autoregressive Learning in Language Models](https://arxiv.org/abs/2405.09220)
 
-<br>
-<h3 id="5">Applications</h1>
+<h2 id="5">Applications</h2>
 <img width="900" alt="image" src="./images/barchart.png" style="display: block; margin: 0 auto;">
-<p>
-<ul style="line-height: 1.6; font-size: 20px;">
+<br>
+<p style="text-align: justify;">
   There are lots of applications of generative models in decision making scenarios. We consider five typical applications including: robot control, autonomous driving, games, structural generation, and optimization.
 </p>
-<br>
 
-
-### 🤖🤖🤖 Robot Control
+<h3 id="5.1">🤖🤖🤖 Robot Control</h3>
 <p id="5.1"></p>
 
 [Benchmarking deep reinforcement learning for continuous control](https://arxiv.org/abs/1604.06778)
@@ -301,7 +298,7 @@
 
 [Understanding Domain Randomization for Sim-to-real Transfer](https://arxiv.org/abs/2110.03239)
 
-[Provable Sim-to-real Transfer in Continuous Domain with Partial Observations](https://arxiv.org/abs/2210.15598) ICLR2023
+[Provable Sim-to-real Transfer in Continuous Domain with Partial Observations](https://arxiv.org/abs/2210.15598)
 
 [Adversarially approximated autoencoder for image generation and manipulation](https://arxiv.org/abs/1902.05581)
 
@@ -313,7 +310,7 @@
 
 [Rapid locomotion via reinforcement learning](https://arxiv.org/abs/2205.02824)
 
-### 🧬🧬🧬 Structure Generation
+<h3 id="5.2">🧬🧬🧬 Structure Generation</h3>
 <p id="5.2"></p>
 
 [Multi-objective de novo drug design with conditional graph generative model](https://arxiv.org/abs/1801.07299)
@@ -332,7 +329,7 @@
 
 [TEMPERA: Test-Time Prompting via Reinforcement Learning](https://arxiv.org/abs/2211.11890)
 
-### 🎮🎮🎮 Games
+<h3 id="5.3">🎮🎮🎮 Games</h3>
 <p id="5.3"></p>
 
 [A Survey of Deep Reinforcement Learning in Video Games](https://arxiv.org/abs/1912.10944)
@@ -349,7 +346,7 @@
 
 [Expected flow networks in stochastic environments and two-player zero-sum games](https://arxiv.org/abs/2310.02779)
 
-### 🚗🚗🚗 Autonomous Driving
+<h3 id="5.4">🚗🚗🚗 Autonomous Driving</h3>
 <p id="5.4"></p>
 
 [Parallel planning: A new motion planning framework for autonomous driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8405356&casa_token=kL60ZOzkIDkAAAAA:yvqjK6Af2RkKXvtuteZ-dsW-ZcAUmlAYGZ4hFaNsFr75omd_9YtWzKDILm6u1nUWJhRvd9O9UmCD&tag=1)
@@ -372,7 +369,8 @@
 
 [SAD-GAN: Synthetic Autonomous Driving using Generative Adversarial Networks](https://arxiv.org/abs/1611.08788)
 
-### 🏷️🏷️🏷️ Optimization
+
+<h3 id="5.5"> 🏷️🏷️🏷️ Optimization</h3>
 <p id="5.5"></p>
 
 [Machine Learning for Combinatorial Optimization: a Methodological Tour d'Horizon](https://arxiv.org/abs/1811.06128)
@@ -381,7 +379,7 @@
 
 [Learning Combinatorial Optimization Algorithms over Graphs](https://arxiv.org/abs/1704.01665)
 
-[Attention, Learn to Solve Routing Problems!](https://arxiv.org/abs/1803.08475) ICLR 2019
+[Attention, Learn to Solve Routing Problems!](https://arxiv.org/abs/1803.08475)
 
 [POMO: Policy Optimization with Multiple Optima for Reinforcement Learning](https://arxiv.org/abs/2010.16011)
 
