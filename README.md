@@ -6,9 +6,7 @@
 
 <p align=center><b>[ Last updated at 2025/03/02 ]</b></p>
 
-<center>
-  <a href="https://arxiv.org/abs/2502.17100"><b>Generative Models in Decision Making: A Survey (arxiv)</b></a>
-</center>
+<p align=center><a href="https://arxiv.org/abs/2502.17100"><b>Generative Models in Decision Making: A Survey (arxiv)</b></a>
 
 # Table of Contents
 ## [Overview](#overview)
