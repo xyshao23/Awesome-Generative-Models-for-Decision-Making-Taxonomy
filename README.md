@@ -9,8 +9,8 @@
 <p align=center><a href="https://arxiv.org/abs/2502.17100"><b>Generative Models in Decision Making: A Survey (arxiv)</b></a>
 
 # Table of Contents
-## [Overview](#overview)
-## [Comparison](#comparison)
+## [Overview](#1)
+## [Comparison](#2)
 ## [Table](#table)
 ## [Taxonomy](#3)
 - [Family](#3.1)
@@ -30,7 +30,7 @@
 - [Optimization](#5.5)
 
 <br>
-<h2 id="overview">Overview</h2>
+<h2>Overview</h2><p id="1"></p>
 <img width="900" alt="image" src="./images/overview.png" style="display: block; margin: 0 auto;">
 <br>
 <p style="line-height: 1.6; font-size: 20px;">
@@ -47,7 +47,7 @@
 </ul>
 
 <br>
-<h2 id="comparison">Comparison</h2>
+<h2>Comparison</h2><p id="2"></p>
 <img width="900" alt="image" src="./images/comparison.png" style="display: block; margin: 0 auto;">
 <p>
 <ul style="line-height: 1.6; font-size: 20px;">
@@ -56,7 +56,7 @@
 </p>
 <br>
 
-<h2 id="table">Table</h2>
+<h2>Table</h2><p id="table"></p>
 <img width="900" alt="image" src="./images/table.png" style="display: block; margin: 0 auto;">
 
 <br>
