@@ -94,13 +94,13 @@
     - Others
 
 - 🔥 Application<p id="3.4"></p>
-    - Robotic Control<p id="5.1"></p>
-    - Structure Generation<p id="5.2"></p>
-    - Games<p id="5.3"></p>
-    - Autonomous Driving<p id="5.4"></p>
-    - Optimization<p id="5.5"></p>
-
+    - Robotic Control
+    - Structure Generation
+    - Games
+    - Autonomous Driving
+    - Optimization
 <br>
+
 <h2 id="4">Survey: Methodology</h2>
 
 ### 🔥🔥🔥 Generative Models as Controller
