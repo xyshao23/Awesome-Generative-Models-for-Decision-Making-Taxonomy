@@ -4,7 +4,7 @@
 
 <p align=center>Please feel free to offer your suggestions in the Issues and pull requests to add links.</p>
 
-<p align=center><b>[ Last updated at 2025/03/02 ]</b></p>
+<p align=center><b>[ Last updated at 2025/03/04 ]</b></p>
 
 <p align=center><a href="https://arxiv.org/abs/2502.17100"><b>Generative Models in Decision Making: A Survey (arxiv)</b></a>
 
@@ -94,9 +94,11 @@
     - Others
 
 - 🔥 Application<p id="3.4"></p>
-    - Controller
-    - Modeler
-    - Optimizer
+    - Robotic Control<p id="5.1"></p>
+    - Structure Generation<p id="5.2"></p>
+    - Games<p id="5.3"></p>
+    - Autonomous Driving<p id="5.4"></p>
+    - Optimization<p id="5.5"></p>
 
 <br>
 <h2 id="4">Survey: Methodology</h2>
@@ -283,7 +285,7 @@
   There are lots of applications of generative models in decision making scenarios. We consider five typical applications including: robot control, autonomous driving, games, structural generation, and optimization.
 </p>
 
-<h3 id="5.1">🤖🤖🤖 Robot Control</h3>
+<h3 id="5.1">🤖🤖🤖 Robotic Control</h3>
 <p id="5.1"></p>
 
 [Benchmarking deep reinforcement learning for continuous control](https://arxiv.org/abs/1604.06778)
